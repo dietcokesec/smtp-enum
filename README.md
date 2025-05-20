@@ -22,9 +22,5 @@ A straightforward smtp enumeration script
 
 ## Example
 ```bash
-./smtp-enum 192.168.1.1 ~/Desktop/Kali/Tools/statistically-likely-usernames/jsmith.txt
-
-# or
-
-uv run smtp-enum 192.168.1.1 ~/Desktop/Kali/Tools/statistically-likely-usernames/jsmith.txt
+uv run main.py 192.168.1.1 ~/Desktop/Kali/Tools/statistically-likely-usernames/jsmith.txt
 ```

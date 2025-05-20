@@ -1,3 +1,5 @@
+This work has been sponsored by [Sythe Labs](https://sythelabs.com).
+
 # smtp-enum
 A straightforward smtp enumeration script
 
